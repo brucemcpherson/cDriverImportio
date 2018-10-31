@@ -1,5 +1,5 @@
 # Google Apps Script Project: cDriverImportio
-This repo (cDriverImportio) was automatically updated on 27 July 2016 10:38:07 BST by GasGit
+This repo (cDriverImportio) was automatically updated on 31 October 2018 11:37:32 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cDriverImportio
@@ -11,15 +11,18 @@ The shared link for [cDriverImportio is here](https://script.google.com/d/11Usgy
 --- | --- 
 cDriverImportio| server_js
 forPublishing| server_js
+appsscript| json
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-importio| importio|M2ZyMvVZdgKdy3SaLP8gq3X797_hv7HHb|3|no|no
+importio| importio|1H6pxRzqW-UxW4Ihdd8XfmpIwU1qPyRxzVw0AkLE5_hfHMGVhwk4O4atu|3|no|no
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-importio| importio|M2ZyMvVZdgKdy3SaLP8gq3X797_hv7HHb|3|no|no
+importio| importio|1H6pxRzqW-UxW4Ihdd8XfmpIwU1qPyRxzVw0AkLE5_hfHMGVhwk4O4atu|3|no|no
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
